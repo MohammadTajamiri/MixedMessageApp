@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("https://w.forfun.com/fetch/27/279d94c7e8d1236afa89409a3c17d047.jpeg");
+    background-position: center;
+    width: 100%;
+}
+main{
+    display: float;
+    justify-content: center;
+    width: 50%;
+    text-align: center;
+    margin: 15% auto;
+}
+#introduction{
+    color: silver;
+    font-weight: 500;
+}
+#introduction:hover{
+    color: greenyellow;
+    font-weight: bolder;
+}
+#mainOne{
+    padding: 25px;
+}
+#Quote{
+    color:rgb(235, 209, 209);
+    font-size: 32px;
+    font-style: italic;
+}
+#name{
+    margin-top: 20px;
+    color:rgb(146, 154, 227);
+    font-size: 20px;
+    font-weight: bold;
+}
